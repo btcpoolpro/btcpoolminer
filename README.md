@@ -1,2 +1,1 @@
 # btcpoolminer
-v
